@@ -16,4 +16,4 @@ We want to inform you that whenever you use our Service, in a case of an error i
 
 ## Cookies
 
-Cookies are
+Cookies are used to enhance the user's exprience by allowing the user to stay logged in to their gmail account. 
